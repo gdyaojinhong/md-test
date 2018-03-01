@@ -7,6 +7,7 @@ import VueRouter from 'vue-router'
 import Vuex from 'vuex'
 import axios from 'axios'
 import 'lib-flexible'
+import './assets/js/fliters'
 
 Vue.use(VueRouter)
 Vue.use(Vuex)
